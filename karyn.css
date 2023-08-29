@@ -1,0 +1,53 @@
+.retangulo_1{
+    width: 1605px;
+height: 172px;
+flex-shrink: 0;
+background: rgb(8, 8, 8);
+margin: 10px;
+color: #da0000;
+font-family: Inter;
+font-size: 128px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.retangulo_2{
+    width: 537px;
+    height: 360px;
+    flex-shrink: 0;
+    margin: 10px;
+    background: rgb(5, 73, 219);
+    display:inline-block;
+   position: relative;
+   font-family: Inter;
+   font-size: 50px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+}
+
+.retangulo_3 {
+    width: 1046px;
+height: 360px;
+flex-shrink: 0;
+background: #e003e0;
+margin: 10px;
+display:inline-block;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.fundo {
+    width: 1949px;
+height: 1024px;
+}
+
+.retangulo_4{
+    width: 1620px;
+height: 61px;
+flex-shrink: 0;
+background: #38d700
+}
